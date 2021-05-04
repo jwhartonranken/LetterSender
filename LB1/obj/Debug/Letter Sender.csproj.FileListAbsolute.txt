@@ -1,0 +1,10 @@
+C:\Users\whart\Desktop\Mobirise\Letter Sender\LB1\bin\Debug\LB1.exe.config
+C:\Users\whart\Desktop\Mobirise\Letter Sender\LB1\bin\Debug\LB1.exe
+C:\Users\whart\Desktop\Mobirise\Letter Sender\LB1\bin\Debug\LB1.pdb
+C:\Users\whart\Desktop\Mobirise\Letter Sender\LB1\obj\Debug\Letter Sender.csprojAssemblyReference.cache
+C:\Users\whart\Desktop\Mobirise\Letter Sender\LB1\obj\Debug\LB1.FormLetterDelivery.resources
+C:\Users\whart\Desktop\Mobirise\Letter Sender\LB1\obj\Debug\LB1.Properties.Resources.resources
+C:\Users\whart\Desktop\Mobirise\Letter Sender\LB1\obj\Debug\Letter Sender.csproj.GenerateResource.cache
+C:\Users\whart\Desktop\Mobirise\Letter Sender\LB1\obj\Debug\Letter Sender.csproj.CoreCompileInputs.cache
+C:\Users\whart\Desktop\Mobirise\Letter Sender\LB1\obj\Debug\LB1.exe
+C:\Users\whart\Desktop\Mobirise\Letter Sender\LB1\obj\Debug\LB1.pdb
